@@ -1,2 +1,3 @@
-# leetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# 알고리즘 테스트 공부
+
+알고리즘을 꾸준히 공부하고자 Repository를 만들어서 문제를 꾸준히 풀어가고자 합니다.
